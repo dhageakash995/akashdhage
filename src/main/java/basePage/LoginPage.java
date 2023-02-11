@@ -43,7 +43,7 @@ public class LoginPage {
 
 		return new HomePage(driver);
 	}
-	public static void test()
+	public static void test1()
 	{
 		
 	}
